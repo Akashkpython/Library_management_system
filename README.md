@@ -10,8 +10,6 @@ libray_management_system
 - **Bcrypt** for password hashing
 - **Dotenv** for environment management
 **--------------------------------------------------------** 
-
-**--------------------------------------------------------** 
 ### Frontend
 - **React.js** with functional components
 - **Tailwind CSS** for styling
